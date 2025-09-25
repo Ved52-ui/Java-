@@ -1,3 +1,3 @@
 # Java-
-jejrbehehebsjdbsns ni ni o ks
+jejrbehehebsjdbsns ni ni o k
 # In Java Class Name And File Name Must Be Same
